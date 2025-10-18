@@ -9,3 +9,4 @@
 - Настроил плагины (GitLens, Markdown Preview)
 - Создал тестовый репозиторий
 - Изучил команды: 'git init','git status', 'git add', 'git commit -m', 'git push', 'git clone', 'git pull', 'git branch', 'git checkout'.
+![alt text](image.png)
