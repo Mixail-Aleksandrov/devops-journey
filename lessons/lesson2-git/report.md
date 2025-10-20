@@ -4,6 +4,9 @@
 **Время:** 3 часа 30 минут   
 **Прогресс:** 100% курса по Git
 
+https://www.youtube.com/watch?v=cG-8NnH4x94
+https://www.youtube.com/watch?v=9e5OSBCCvvU
+
 ## Что я сделал
 
 
