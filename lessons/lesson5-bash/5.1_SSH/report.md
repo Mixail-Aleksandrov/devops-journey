@@ -1,4 +1,4 @@
- Lesson 3 —  Practika-vscode,git
+ Lesson 5.1 —  SSH
 
 **Дата:** 22.10.2025  
 **Время:** 1 час   
